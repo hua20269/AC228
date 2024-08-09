@@ -8,6 +8,6 @@ extern int a, b;
 
 #define upUrl "http://bin.bemfa.com/b/3BcYWMzNDRjODg3OGFiNWQwMWNlNDFkMjNiMmRjZjRmNzQ=AC228.bin"
 
-void updateBin(); // wifiManager配网      httpUpdate OTA更新
+void updateBin(); // wifiManager配网      httpUpdate OTA更新 
 
 #endif
